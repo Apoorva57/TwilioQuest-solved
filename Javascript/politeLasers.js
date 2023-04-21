@@ -1,0 +1,1 @@
+const getLaserSetting = (req) => (req === 'please' ? 'OFF' : 'ON');
