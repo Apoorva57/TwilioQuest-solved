@@ -1,0 +1,1 @@
+const transform = (ary) => ary.map((i) => i.toUpperCase());
